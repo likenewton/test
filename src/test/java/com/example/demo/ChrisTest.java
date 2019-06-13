@@ -13,4 +13,10 @@ public class ChrisTest {
     public void saySomething() {
         System.out.println("winter is coming!");
     }
+
+    @Test
+    public void go() {
+        System.out.println("go");
+    }
+
 }
